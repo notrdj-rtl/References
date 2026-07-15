@@ -1,56 +1,35 @@
-# References
-a simple library of personal references
 
-*ctrl+p and commit*
+This is a simple backup library of selected references/notes available to anyone who might find the information useful. 
 
 ---
-# ***Roadmap:***
+# ***Projects Roadmap***
 
-## In Progress
+## Review
 
 - library set up 
 
+## In Progress
+
+- Research Lab
+- Buzzer Game
+- commit more projects
+
 ## Queued
 
-- commit projects
-	- personal projects
-	- college labs
-
-- put in current tasks for the projects in roadmap
-- decide what wip to work on
+- The Art of Electronics documentation
 
 ## Backlog
-%% if nothing, check [[Outlook Dump]] %%
 
 - Nand2tetris
-- verify schedules
-	- next month
-	- next academic year
-
-## Review
-%% i'll usually sleep on it, then commit to finalized%%
 
 
 ---
-# Contributions
+# Version History
 
-```contributionGraph
-title: Contributions
-graphType: default
-dateRangeValue: 180
-dateRangeType: LATEST_DAYS
-startOfWeek: 0
-showCellRuleIndicators: true
-titleStyle:
-  textAlign: left
-  fontSize: 15px
-  fontWeight: normal
-dataSource:
-  type: PAGE
-  value: ""
-  dateField: {}
-fillTheScreen: false
-enableMainContainerShadow: false
-cellStyleRules: []
+*ctrl+p and commit*
 
-```
+**Latest Commit Notes:**
+Version 0.3 - Review: unselected unnecessary/unfinished files
+
+Version 0.2 - Added Roadmap and lists
+Version 0.1 - Created system, a public personal library available to anyone who might find the information useful.

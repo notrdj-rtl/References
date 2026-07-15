@@ -1,3 +1,5 @@
+%% Version 1.0 %%
+
 **Table of Contents:**
 
 [[#Embedded Variables]]
@@ -99,17 +101,3 @@ Alto Do (523Hz), Re (587Hz), Mi (659Hz), Fa (698Hz), So(784Hz), La (880Hz), Si (
 in arduino, you first use "Serial.begin(9600);" yo open the serial port at 9600 bps in void setup.
 
 Then, you can use "Serial.print(val, format);"
-
-
-
-if (ip1==true) {
-  analogWrite(red, 200);
-  analogWrite(green, 75);
-  Serial.print("game is true");
-  delay(1000);
-} else {
-  Serial.print("game is false");
-  analogWrite(red, 0);
-  analogWrite(green, 0);
-  delay(1000);
-}
