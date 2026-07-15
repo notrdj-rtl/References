@@ -4,10 +4,6 @@ This is a simple backup library of selected references/notes available to anyone
 ---
 # ***Projects Roadmap***
 
-## Review
-
-- library set up 
-
 ## In Progress
 
 - Research Lab
