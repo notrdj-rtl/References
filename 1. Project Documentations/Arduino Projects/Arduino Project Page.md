@@ -1,9 +1,9 @@
 %% Version 1.1 %%
 
-[[Arduino Programming]]
+[[Personal References/2. Resources/2b. Tools/Arduino Programming]]
 
 # Reference code:
-[[Toggle Button]]
+[[Git References/1. Project Documentations/Arduino Projects/Backend Links/Toggle Button]]
 
 
 # Projects:
@@ -12,7 +12,7 @@ In Progress:
 [[Reaction Game]]
 
 Completed:
-[[Two Pitch Buttons]]
+[[Git References/1. Project Documentations/Arduino Projects/Backend Links/Two Pitch Buttons]]
 
 
 
