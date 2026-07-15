@@ -1,4 +1,4 @@
-
+```
  // Connections
   #define IN 7
   #define OUT 3
@@ -23,4 +23,4 @@ void loop() {
   digitalWrite(OUT, LED); //output
   delay(75);
  }
- 
+```
