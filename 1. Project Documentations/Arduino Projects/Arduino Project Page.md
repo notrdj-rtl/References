@@ -1,15 +1,25 @@
-%% Version 1.0 %%
+%% Version 1.1 %%
 
 [[Arduino Programming]]
 
-Reference code:
+# Reference code:
 [[Toggle Button]]
 
-Projects:
-buzz game
+
+# Projects:
+
+In Progress:
+[[Reaction Game]]
+
+Completed:
+[[Two Pitch Buttons]]
 
 
 
+
+
+
+---
 
 useful links: 
 box pdf: https://www.uastem.com/wp-content/uploads/2021/10/Elegoo_Super_Starter_Kit_for_UNO_V1.0.2019.09.17.pdf
