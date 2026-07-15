@@ -1,4 +1,4 @@
-```
+```C
  // Connections
   #define IN 7
   #define OUT 3
