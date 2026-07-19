@@ -1,5 +1,5 @@
 
-This is a simple backup library of selected references/notes available to anyone who might find the information useful. 
+%% This is a simple backup library of selected references/notes available to anyone who might find the information useful.  %%
 
 ---
 # ***Projects Roadmap***
@@ -7,11 +7,11 @@ This is a simple backup library of selected references/notes available to anyone
 ## In Progress
 
 - Research Lab
-- Buzzer Game
-- commit more projects
+
 
 ## Queued
 
+- commit more projects
 - The Art of Electronics documentation
 
 ## Backlog
@@ -24,9 +24,8 @@ This is a simple backup library of selected references/notes available to anyone
 
 *ctrl+p and commit*
 
-**Latest Commit Notes:**
-Version 0.4 - Updated Arduino Projects
+**Latest Commit Notes:** Verision 0.45: Organization
 
-Version 0.3 - Review: unselected unnecessary/unfinished files
+Version 0.4 - Updated Arduino Projects Version 0.3 - Review: unselected unnecessary/unfinished files
 Version 0.2 - Added Roadmap and lists
 Version 0.1 - Created system, a public personal library available to anyone who might find the information useful.

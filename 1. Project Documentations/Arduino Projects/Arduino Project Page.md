@@ -8,8 +8,7 @@
 
 # Projects:
 
-In Progress:
-[[Reaction Game]]
+
 
 Completed:
 [[Git References/1. Project Documentations/Arduino Projects/Backend Links/Two Pitch Buttons]]
